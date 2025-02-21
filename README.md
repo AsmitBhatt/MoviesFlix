@@ -14,14 +14,10 @@
   <p align="center">
     Movieflix - AI Powered Movie App [React.js, Material UI, Alan AI]
     <br />
-    <a href="https://github.com/vinayaksaxena1507/MovieFlix"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/AsmitBhatt/MoviesFlix"><strong>Explore the project »</strong></a>
     <br />
     <br />
     <a href="https://movieflixe.netlify.app/">View Demo Site</a>
-    ·
-    <a href="https://github.com/vinayaksaxena1507/MovieFlix/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/vinayaksaxena1507/MovieFlix/issues">Request Feature</a>
   </p>
 </div>
 
@@ -138,10 +134,6 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Vinayak - [@vinayak-saxena](https://github.com/vinayaksaxena1507)
-
-Project Link: [https://github.com/vinayaksaxena1507/MovieFlix](https://github.com/vinayaksaxena1507/MovieFlix)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
