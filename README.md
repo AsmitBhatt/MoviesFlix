@@ -9,7 +9,7 @@
     <img src="https://fontmeme.com/permalink/230517/1c1670dd6284f8d01001e1c74b52aae3.png" alt="Movieflix" width="252" height="85">
   </a>
 
-  <h2 align="center">Movieflix - Vinayak Saxena</h2>
+  <h2 align="center">Movieflix - Asmit Bhatt</h2>
 
   <p align="center">
     Movieflix - AI Powered Movie App [React.js, Material UI, Alan AI]
